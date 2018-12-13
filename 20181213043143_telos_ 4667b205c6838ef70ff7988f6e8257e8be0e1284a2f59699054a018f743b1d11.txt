@@ -1,0 +1,552 @@
+--2018-12-13 04:31:43--  https://raw.githubusercontent.com/Telos-Foundation/snapshots/master/tfrp_accounts.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.16.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.16.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14360 (14K) [text/plain]
+Saving to: ‘tfrp_accounts.csv’
+
+     0K .......... ....                                       100% 1.27M=0.01s
+
+2018-12-13 04:31:43 (1.27 MB/s) - ‘tfrp_accounts.csv’ saved [14360/14360]
+
+--2018-12-13 04:31:43--  https://raw.githubusercontent.com/Telos-Foundation/snapshots/master/tcrp_accounts.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.16.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.16.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15079 (15K) [text/plain]
+Saving to: ‘tcrp_accounts.csv’
+
+     0K .......... ....                                       100% 1.35M=0.01s
+
+2018-12-13 04:31:43 (1.35 MB/s) - ‘tcrp_accounts.csv’ saved [15079/15079]
+
+--2018-12-13 04:31:43--  https://raw.githubusercontent.com/Telos-Foundation/snapshots/master/tfvt_accounts.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.16.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.16.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4850 (4.7K) [text/plain]
+Saving to: ‘tfvt_accounts.csv’
+
+     0K ....                                                  100% 45.1M=0s
+
+2018-12-13 04:31:43 (45.1 MB/s) - ‘tfvt_accounts.csv’ saved [4850/4850]
+
+Validating that account =  tfrp1114445m exists
+Validating that account =  tfrp1y1555gg exists
+Validating that account =  tfrp11111112 exists
+Validating that account =  tfrp11111113 exists
+Validating that account =  tfrp11111115 exists
+Validating that account =  tfrp1111111g exists
+Validating that account =  tfrp1111111r exists
+Validating that account =  tfrp1111111m exists
+Validating that account =  tfrp1111112b exists
+Validating that account =  tfrp11111121 exists
+Validating that account =  tfrp11111122 exists
+Validating that account =  tfrp11111123 exists
+Validating that account =  tfrp11111124 exists
+Validating that account =  tfrp11111125 exists
+Validating that account =  tfrp1111112r exists
+Validating that account =  tfrp114y1124 exists
+Validating that account =  tfrp1111112m exists
+Validating that account =  tfrp1111112t exists
+Validating that account =  tfrp1111113b exists
+Validating that account =  tfrp11111131 exists
+Validating that account =  tfrp11111132 exists
+Validating that account =  tfrp11211u2g exists
+Validating that account =  tfrp111fg33t exists
+Validating that account =  tfrp11111133 exists
+Validating that account =  tfrp11111134 exists
+Validating that account =  tfrp11fg335b exists
+Validating that account =  tfrp11122224 exists
+Validating that account =  tfrp11122225 exists
+Validating that account =  tfrp1111sq25 exists
+Validating that account =  tfrp1112222g exists
+Validating that account =  tfrp1ih22245 exists
+Validating that account =  tfrp112def15 exists
+Validating that account =  tfrp1112222r exists
+Validating that account =  tfrp1112222m exists
+Validating that account =  tfrp1112222t exists
+Validating that account =  tfrp11122231 exists
+Validating that account =  tfrp11122232 exists
+Validating that account =  tfrp11122233 exists
+Validating that account =  tfrp1asd335b exists
+Validating that account =  tfrp1au2223g exists
+Validating that account =  tfrp11122234 exists
+Validating that account =  tfrp11122235 exists
+Validating that account =  tfrp1112223g exists
+Validating that account =  tfrp1112223m exists
+Validating that account =  tfrp1112223t exists
+Validating that account =  tfrp1112224b exists
+Validating that account =  tfrp11122242 exists
+Validating that account =  tfrp1111e122 exists
+Validating that account =  tfrp1112224g exists
+Validating that account =  tfrp1112224m exists
+Validating that account =  tfrp1112224t exists
+Validating that account =  tfrp111zggr4 exists
+Validating that account =  tfrp112abc15 exists
+Validating that account =  tfrp1115x5g2 exists
+Validating that account =  tfrp11122251 exists
+Validating that account =  tfrp11122252 exists
+Validating that account =  tfrp11133334 exists
+Validating that account =  tfrp11133335 exists
+Validating that account =  tfrp1113333g exists
+Validating that account =  tfrp1113333r exists
+Validating that account =  tfrp1113333m exists
+Validating that account =  tfrp1113333t exists
+Validating that account =  tfrp1113334b exists
+Validating that account =  tfrp1p13335b exists
+Validating that account =  tfrp11133341 exists
+Validating that account =  tfrp11133342 exists
+Validating that account =  tfrp11133343 exists
+Validating that account =  tfrp111gggrg exists
+Validating that account =  tfrp11133344 exists
+Validating that account =  tfrp11133345 exists
+Validating that account =  tfrp1113334g exists
+Validating that account =  tfrp1113334r exists
+Validating that account =  tfrp1113334m exists
+Validating that account =  tfrp1113334t exists
+Validating that account =  tfrp1113335b exists
+Validating that account =  tfrp11133351 exists
+Validating that account =  tfrp11133352 exists
+Validating that account =  tfrp11133353 exists
+Validating that account =  tfrp11133354 exists
+Validating that account =  tfrp11133355 exists
+Validating that account =  tfrp1z1555gg exists
+Validating that account =  tfrp11144444 exists
+Validating that account =  tfrp11144445 exists
+Validating that account =  tfrp1114444g exists
+Validating that account =  tfrp111r55gg exists
+Validating that account =  tfrp1114444r exists
+Validating that account =  tfrp1114444m exists
+Validating that account =  tfrp1114444t exists
+Validating that account =  tfrp111gkgr4 exists
+Validating that account =  tfrp111gmgr4 exists
+Validating that account =  tfrp1121aq1r exists
+Validating that account =  tfrp1114445b exists
+Validating that account =  tfrp11144451 exists
+Validating that account =  tfrp11144452 exists
+Validating that account =  tfrp11144453 exists
+Validating that account =  tfrp11144455 exists
+Validating that account =  tfrp1114445g exists
+Validating that account =  tfrp1114445r exists
+Validating that account =  tfrp1114445t exists
+Validating that account =  tfrp111y55gg exists
+Validating that account =  tfrp111444gb exists
+Validating that account =  tfrp11111111 exists
+Validating that account =  tfrp111444g1 exists
+Validating that account =  tfrp111rt33t exists
+Validating that account =  tfrp1113555b exists
+Validating that account =  tfrp111444g4 exists
+Validating that account =  tfrp111444g5 exists
+Validating that account =  tfrp111444gg exists
+Validating that account =  tfrp11155555 exists
+Validating that account =  tfrp1115555g exists
+Validating that account =  tfrp1115555r exists
+Validating that account =  tfrp1115555t exists
+Validating that account =  tfrp111555gb exists
+Validating that account =  tfrp111555g1 exists
+Validating that account =  tfrp111555g2 exists
+Validating that account =  tfrp111555g4 exists
+Validating that account =  tfrp111555g5 exists
+Validating that account =  tfrp111555gg exists
+Validating that account =  tfrp111555gr exists
+Validating that account =  tfrp1kq22235 exists
+Validating that account =  tfrp111555rb exists
+Validating that account =  tfrp1ig22255 exists
+Validating that account =  tfrp111555r1 exists
+Validating that account =  tfrp111555r2 exists
+Validating that account =  tfrp111555r3 exists
+Validating that account =  tfrp111ggggg exists
+Validating that account =  tfrp111ggggr exists
+Validating that account =  tfrp111ggggm exists
+Validating that account =  tfrp111ggggt exists
+Validating that account =  tfrp111gggrb exists
+Validating that account =  tfrp11211115 exists
+Validating that account =  tfrp111gggr1 exists
+Validating that account =  tfrp111gggr2 exists
+Validating that account =  tfrp111gggr3 exists
+Validating that account =  tfrp111gggr4 exists
+Validating that account =  tfrp1it22235 exists
+Validating that account =  tfrp111gggr5 exists
+Validating that account =  tfrp11rt1121 exists
+Validating that account =  tfrp111gggrr exists
+Validating that account =  tfrp111gggrm exists
+Validating that account =  tfrp111gggrt exists
+Validating that account =  tfrp111gggmb exists
+Validating that account =  tfrp111gggm1 exists
+Validating that account =  tfrp111gggm2 exists
+Validating that account =  tfrp111gggm3 exists
+Validating that account =  tfrp111gggm5 exists
+Validating that account =  tfrp111gggmg exists
+Validating that account =  tfrp111gggmr exists
+Validating that account =  tfrp111gggmm exists
+Validating that account =  tfrp111rrrrr exists
+Validating that account =  tfrp111rrrrm exists
+Validating that account =  tfrp111rrrrt exists
+Validating that account =  tfrp111rrrm1 exists
+Validating that account =  tfrp111rrrm2 exists
+Validating that account =  tfrp111rrrm3 exists
+Validating that account =  tfrp111rrrm4 exists
+Validating that account =  tfrp1131w11g exists
+Validating that account =  tfrp111rrrm5 exists
+Validating that account =  tfrp111rrrmg exists
+Validating that account =  tfrp111rrrmr exists
+Validating that account =  tfrp111rrrmm exists
+Validating that account =  tfrp111rrrmt exists
+Validating that account =  tfrp111rrrtb exists
+Validating that account =  tfrp111rrrt1 exists
+Validating that account =  tfrp111rrrt2 exists
+Validating that account =  tfrp111rrrt3 exists
+Validating that account =  tfrp111rrrt4 exists
+Validating that account =  tfrp111rrrt5 exists
+Validating that account =  tfrp111rrrtg exists
+Validating that account =  tfrp111rrrtr exists
+Validating that account =  tfrp111rrrtm exists
+Validating that account =  tfrp111rrrtt exists
+Validating that account =  tfrp112ghi15 exists
+Validating that account =  tfrp1i122234 exists
+Validating that account =  tfrp111rrmb1 exists
+Validating that account =  tfrp1121f11m exists
+Validating that account =  tfrp111rrmb2 exists
+Validating that account =  tfrp111rrmb3 exists
+Validating that account =  tfrp111rrmb4 exists
+Validating that account =  tfrp111rrmb5 exists
+Validating that account =  tfrp11211111 exists
+Validating that account =  tfrp11211113 exists
+Validating that account =  tfrp1121vv2b exists
+Validating that account =  tfrp11211114 exists
+[0;32mTFRP Validation succesful[0m
+Validating that account =  tcrp11111111 exists
+Validating that account =  tcrp11111112 exists
+Validating that account =  tcrp11111113 exists
+Validating that account =  tcrp11111114 exists
+Validating that account =  tcrp11111115 exists
+Validating that account =  tcrp11111121 exists
+Validating that account =  tcrp11111122 exists
+Validating that account =  tcrp11111123 exists
+Validating that account =  tcrp11111124 exists
+Validating that account =  tcrp11111125 exists
+Validating that account =  tcrp11111131 exists
+Validating that account =  tcrp11111132 exists
+Validating that account =  tcrp11111133 exists
+Validating that account =  tcrp11111134 exists
+Validating that account =  tcrp11111135 exists
+Validating that account =  tcrp11112442 exists
+Validating that account =  tcrp11111141 exists
+Validating that account =  tcrp11111142 exists
+Validating that account =  tcrp11111143 exists
+Validating that account =  tcrp11111144 exists
+Validating that account =  tcrp11111145 exists
+Validating that account =  tcrp11112443 exists
+Validating that account =  tcrp11111151 exists
+Validating that account =  tcrp11111152 exists
+Validating that account =  tcrp11111153 exists
+Validating that account =  tcrp11111154 exists
+Validating that account =  tcrp11111155 exists
+Validating that account =  tcrp11111211 exists
+Validating that account =  tcrp11111212 exists
+Validating that account =  tcrp11111213 exists
+Validating that account =  tcrp11111214 exists
+Validating that account =  tcrp11111215 exists
+Validating that account =  tcrp11111221 exists
+Validating that account =  tcrp11111222 exists
+Validating that account =  tcrp11111223 exists
+Validating that account =  tcrp11111224 exists
+Validating that account =  tcrp11111225 exists
+Validating that account =  tcrp11111231 exists
+Validating that account =  tcrp11111232 exists
+Validating that account =  tcrp11111233 exists
+Validating that account =  tcrp11111234 exists
+Validating that account =  tcrp11111235 exists
+Validating that account =  tcrp11111241 exists
+Validating that account =  tcrp11111242 exists
+Validating that account =  tcrp11111243 exists
+Validating that account =  tcrp11111244 exists
+Validating that account =  tcrp11111245 exists
+Validating that account =  tcrp11111251 exists
+Validating that account =  tcrp11111252 exists
+Validating that account =  tcrp11111253 exists
+Validating that account =  tcrp11111254 exists
+Validating that account =  tcrp11111255 exists
+Validating that account =  tcrp11111311 exists
+Validating that account =  tcrp11111312 exists
+Validating that account =  tcrp11111313 exists
+Validating that account =  tcrp11111314 exists
+Validating that account =  tcrp11111315 exists
+Validating that account =  tcrp11111321 exists
+Validating that account =  tcrp11111322 exists
+Validating that account =  tcrp11111323 exists
+Validating that account =  tcrp11111324 exists
+Validating that account =  tcrp11111325 exists
+Validating that account =  tcrp11111331 exists
+Validating that account =  tcrp11111332 exists
+Validating that account =  tcrp11111333 exists
+Validating that account =  tcrp11111334 exists
+Validating that account =  tcrp11111335 exists
+Validating that account =  tcrp11111341 exists
+Validating that account =  tcrp11111342 exists
+Validating that account =  tcrp11111343 exists
+Validating that account =  tcrp11111344 exists
+Validating that account =  tcrp11111345 exists
+Validating that account =  tcrp11111351 exists
+Validating that account =  tcrp11111352 exists
+Validating that account =  tcrp11111353 exists
+Validating that account =  tcrp11111354 exists
+Validating that account =  tcrp11111355 exists
+Validating that account =  tcrp11111411 exists
+Validating that account =  tcrp11111412 exists
+Validating that account =  tcrp11111413 exists
+Validating that account =  tcrp11111414 exists
+Validating that account =  tcrp11111415 exists
+Validating that account =  tcrp11111421 exists
+Validating that account =  tcrp11111422 exists
+Validating that account =  tcrp11111423 exists
+Validating that account =  tcrp11111424 exists
+Validating that account =  tcrp11111425 exists
+Validating that account =  tcrp11111431 exists
+Validating that account =  tcrp11111432 exists
+Validating that account =  tcrp11111433 exists
+Validating that account =  tcrp11111434 exists
+Validating that account =  tcrp11111435 exists
+Validating that account =  tcrp11111441 exists
+Validating that account =  tcrp11111442 exists
+Validating that account =  tcrp11111443 exists
+Validating that account =  tcrp11111444 exists
+Validating that account =  tcrp11111445 exists
+Validating that account =  tcrp11111451 exists
+Validating that account =  tcrp11111452 exists
+Validating that account =  tcrp11111453 exists
+Validating that account =  tcrp11111454 exists
+Validating that account =  tcrp11111455 exists
+Validating that account =  tcrp11111511 exists
+Validating that account =  tcrp11111512 exists
+Validating that account =  tcrp11111513 exists
+Validating that account =  tcrp11111514 exists
+Validating that account =  tcrp11111515 exists
+Validating that account =  tcrp11111521 exists
+Validating that account =  tcrp11111522 exists
+Validating that account =  tcrp11111523 exists
+Validating that account =  tcrp11111524 exists
+Validating that account =  tcrp11111525 exists
+Validating that account =  tcrp11111531 exists
+Validating that account =  tcrp11111532 exists
+Validating that account =  tcrp11111533 exists
+Validating that account =  tcrp11111534 exists
+Validating that account =  tcrp11111535 exists
+Validating that account =  tcrp11111541 exists
+Validating that account =  tcrp11111542 exists
+Validating that account =  tcrp11111543 exists
+Validating that account =  tcrp11111544 exists
+Validating that account =  tcrp11111545 exists
+Validating that account =  tcrp11111551 exists
+Validating that account =  tcrp11111552 exists
+Validating that account =  tcrp11111553 exists
+Validating that account =  tcrp11111554 exists
+Validating that account =  tcrp11111555 exists
+Validating that account =  tcrp11112111 exists
+Validating that account =  tcrp11112112 exists
+Validating that account =  tcrp11112113 exists
+Validating that account =  tcrp11112114 exists
+Validating that account =  tcrp11112115 exists
+Validating that account =  tcrp11112121 exists
+Validating that account =  tcrp11112122 exists
+Validating that account =  tcrp11112123 exists
+Validating that account =  tcrp11112124 exists
+Validating that account =  tcrp11112125 exists
+Validating that account =  tcrp11112131 exists
+Validating that account =  tcrp11112132 exists
+Validating that account =  tcrp11112133 exists
+Validating that account =  tcrp11112134 exists
+Validating that account =  tcrp11112135 exists
+Validating that account =  tcrp11112141 exists
+Validating that account =  tcrp11112142 exists
+Validating that account =  tcrp11112143 exists
+Validating that account =  tcrp11112144 exists
+Validating that account =  tcrp11112145 exists
+Validating that account =  tcrp11112151 exists
+Validating that account =  tcrp11112152 exists
+Validating that account =  tcrp11112153 exists
+Validating that account =  tcrp11112154 exists
+Validating that account =  tcrp11112155 exists
+Validating that account =  tcrp11112211 exists
+Validating that account =  tcrp11112212 exists
+Validating that account =  tcrp11112213 exists
+Validating that account =  tcrp11112214 exists
+Validating that account =  tcrp11112215 exists
+Validating that account =  tcrp11112221 exists
+Validating that account =  tcrp11112222 exists
+Validating that account =  tcrp11112223 exists
+Validating that account =  tcrp11112224 exists
+Validating that account =  tcrp11112225 exists
+Validating that account =  tcrp11112231 exists
+Validating that account =  tcrp11112232 exists
+Validating that account =  tcrp11112233 exists
+Validating that account =  tcrp11112234 exists
+Validating that account =  tcrp11112235 exists
+Validating that account =  tcrp11112242 exists
+Validating that account =  tcrp11112243 exists
+Validating that account =  tcrp11112244 exists
+Validating that account =  tcrp11112245 exists
+Validating that account =  tcrp11112251 exists
+Validating that account =  tcrp11112252 exists
+Validating that account =  tcrp11112253 exists
+Validating that account =  tcrp11112254 exists
+Validating that account =  tcrp11112255 exists
+Validating that account =  tcrp11112311 exists
+Validating that account =  tcrp11112312 exists
+Validating that account =  tcrp11112313 exists
+Validating that account =  tcrp11112314 exists
+Validating that account =  tcrp11112315 exists
+Validating that account =  tcrp11112321 exists
+Validating that account =  tcrp11112322 exists
+Validating that account =  tcrp11112323 exists
+Validating that account =  tcrp11112324 exists
+Validating that account =  tcrp11112325 exists
+Validating that account =  tcrp11112331 exists
+Validating that account =  tcrp11112332 exists
+Validating that account =  tcrp11112333 exists
+Validating that account =  tcrp11112334 exists
+Validating that account =  tcrp11112335 exists
+Validating that account =  tcrp11112341 exists
+Validating that account =  tcrp11112342 exists
+Validating that account =  tcrp11112343 exists
+Validating that account =  tcrp11112344 exists
+Validating that account =  tcrp11112345 exists
+Validating that account =  tcrp11112351 exists
+Validating that account =  tcrp11112352 exists
+Validating that account =  tcrp11112353 exists
+Validating that account =  tcrp11112354 exists
+Validating that account =  tcrp11112355 exists
+Validating that account =  tcrp11112411 exists
+Validating that account =  tcrp11112412 exists
+Validating that account =  telosfanatic exists
+Validating that account =  tcrp11112414 exists
+Validating that account =  freyjabjorn1 exists
+Validating that account =  tcrp11112421 exists
+Validating that account =  tcrp11112422 exists
+Validating that account =  tcrp11112423 exists
+Validating that account =  tcrp11112424 exists
+Validating that account =  tcrp11112425 exists
+Validating that account =  tcrp11112431 exists
+Validating that account =  tcrp11112432 exists
+Validating that account =  tcrp11112433 exists
+Validating that account =  tcrp11112434 exists
+Validating that account =  tcrp11112435 exists
+Validating that account =  tcrp11112441 exists
+Validating that account =  bigmiketelos exists
+[0;32mTFRP Validation succesful[0m
+Validating that account =  jerry.tf exists
+Validating that account =  marlon.tf exists
+Validating that account =  justingiu.tf exists
+Validating that account =  jr.tf exists
+Validating that account =  jesse.tf exists
+Validating that account =  jt.tf exists
+Validating that account =  beth.tf exists
+Validating that account =  douglas.tf exists
+Validating that account =  james.tf exists
+Validating that account =  craig.tf exists
+Validating that account =  ed.tf exists
+Validating that account =  peter.tf exists
+Validating that account =  mada.tf exists
+Validating that account =  cata.tf exists
+Validating that account =  robrigo.tf exists
+Validating that account =  johnhauge.tf exists
+Validating that account =  rogdavies.tf exists
+Validating that account =  jimhewitt.tf exists
+Validating that account =  swedencor.tf exists
+Validating that account =  dutcheos1.tf exists
+Validating that account =  dutcheos2.tf exists
+Validating that account =  dutcheos3.tf exists
+Validating that account =  avamvotes.tf exists
+Validating that account =  sukeshted.tf exists
+Validating that account =  danieluzc.tf exists
+Validating that account =  josh.tf exists
+Validating that account =  andreig.tf exists
+Validating that account =  sebi.tf exists
+Validating that account =  adam.tf exists
+Validating that account =  justnbuck.tf exists
+Validating that account =  chenli111.tf exists
+Validating that account =  markcohen.tf exists
+Validating that account =  msegurola.tf exists
+Validating that account =  cj.tf exists
+Validating that account =  jorgeferr.tf exists
+Validating that account =  bryan.tf exists
+Validating that account =  azadhalim.tf exists
+Validating that account =  msaumstls.tf exists
+Validating that account =  bigironbp.tf exists
+Validating that account =  infinidi.tf exists
+Validating that account =  sunshine.tf exists
+Validating that account =  ram.tf exists
+Validating that account =  phil.tf exists
+Validating that account =  21zephyr1.tf exists
+Validating that account =  africaone.tf exists
+Validating that account =  tjbullock.tf exists
+Validating that account =  jowenstny.tf exists
+Validating that account =  whodat5o4.tf exists
+Validating that account =  jakobthe1.tf exists
+Validating that account =  robajames.tf exists
+Validating that account =  mauricest.tf exists
+Validating that account =  andrew.tf exists
+Validating that account =  ianpnchvr.tf exists
+Validating that account =  andreic.tf exists
+Validating that account =  jrjackson.tf exists
+Validating that account =  pairmike1.tf exists
+Validating that account =  aliforall.tf exists
+Validating that account =  danjlazor.tf exists
+Validating that account =  vihogrefe.tf exists
+Validating that account =  kevinq.tf exists
+Validating that account =  kottanakk.tf exists
+Validating that account =  eosimpera.tf exists
+Validating that account =  zahidhdee.tf exists
+Validating that account =  hassaneos.tf exists
+Validating that account =  21zephyr2.tf exists
+Validating that account =  justinbr.tf exists
+Validating that account =  raluca.tf exists
+Validating that account =  sean.tf exists
+Validating that account =  fieldy.tf exists
+Validating that account =  chijioke.tf exists
+[0;32mTFRP Validation succesful[0m
+                                                              ,,,,,,.........                     
+                                                              (#############(                      
+                                                             ##############(                       
+                          ,,,,,,,.....,,...                 #%%###########/                        
+                        /(/,,,,,,*******************///////////////######*                         
+                      /((#(,,,,,,,******************////////////////(#%#/                          
+                    (((((##,,,,,,********************/*********///////%,                           
+                  /(((((((#*,,,,,*,****************,,,,,***********////.                           
+               ./((((((((##/,,,,,,,**********,,.,,,,,,,,,,,,********////*                          
+               ./((((((((##(,,,,,,,******,..........,,,,,,,,,,,,,***//////                         
+                .((((((((###,,,,,,*,,.    ...............,,,,,,,,,,,*//////,                       
+                 .(((((((###,,,,.             ...............,,,,,,,,//******                      
+                  /%%%%%%%%%/*,..                  ..............,,,,*********.                    
+                   /%%%%%%%%(((((((((((((##((((//**,.................,*********,                   
+                    (%%%%%%%(((((((((((((((((((//////////. ...........***********                  
+                     #%%%%%%(((((((((((((((((/////////////*     ......,***********,                
+                   *%%%%%%%%((((((((((((((//////////////////,       ...************,               
+                 /####%%%#%%/(((((((((((////////////////////((.        **************.             
+                 (#######%%%///////////////////////////////((((*       ,***********,,,,            
+                 (##########///////////////////////////////((((((.     .*******,,,,,,,,,           
+                 (##########///////////////////////////////(((((((/     ,*,,,,,,,,,,,,,,/.         
+                 (##########///////////////////////////////(((((((((.   ,,,,,,,,,,,,*(##(          
+                 (##########*/////////////////////////////((((((((((((. .,,,,,,,,/(((###*          
+                 (#########(//////////////////////////////(((((((((((((* ,,,,*(((((((###           
+                 (#########(*/////////////////////////////(((((((((((((((*/(((((((((###/           
+                 (#########(////*//////////////////////////(((((((((((#%#%%(((((((((###.           
+                 (#########/******//////////////////////////((((((((#%#%#%%%((((((((##(            
+                 /#########/*********/////////////////////////(((#######%%%%%%((((((##*            
+                  #########/**************/*/////////////////(##########%%%%%%#/,.                 
+                  .########/**************////////////////(############*                           
+                   *#######*******************//////////###############.                           
+                    (#((((#*********************/**/*##################                            
+                    .((((((***********************(#################(.                             
+                     ,(((((********************(########((#######(.                                
+                      /((((*****************(##########(((((#((.                                   
+                       ((((**************(((###########(((((.                                      
+                       .(((***********/(((((###########((.                                         
+                        *(/********/((((((((#######(/*.                                            
+                         //*****/((((((((((/*.                                                     
+                         ./**/(((//*.                                                              
+                           .                                                                       
+                                                                                                   
+                                                                                                   
+                                                                                                   
